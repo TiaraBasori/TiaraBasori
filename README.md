@@ -141,7 +141,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/TiaraBasori/TiaraBasori/output/snake.svg" alt="Snake animation" />
-
-###
