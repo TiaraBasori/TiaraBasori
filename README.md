@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">我是一个高中生技术宅(大部分时候是Vibe Coder就是了)</p>
+<p align="left">一个高中生技术宅(大部分时候是Vibe Coder就是了)</p>
 
 ###
 
