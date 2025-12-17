@@ -2,14 +2,10 @@
 
 ###
 
-<p align="left">我是一个来自浙江的高中生</p>
-<p align="left">Cursor熟练使用者,DeepSeek API深度合作伙伴,Cloudflare Workers重度成瘾,GramJS受害者</p>
+<p align="center">是一个来自浙江的高中生。</p>
+<p align="center">Also:~~Cursor熟练使用者,DeepSeek API深度合作伙伴,Cloudflare Workers重度成瘾,GramJS受害者~~</p>
 
-###
-
-<h3 align="left">Contact:</h3>
-
-###
+### Contact:
 
 <div align="left">
   <a href="https://t.me/Tiara_Basori" target="_blank">
@@ -17,11 +13,14 @@
   </a>
 </div>
 
-###
+### 正在干嘛
 
-<h3 align="left">技术栈/Tools:</h3>
+- [TeleBoxOrg/TeleBox](https://github.com/TeleBoxOrg/TeleBox)
+- [TeleBox_Plugins](https://github.com/TeleBoxOrg/TeleBox_Plugins)
 
-###
+  新一代 Telegram Userbot 框架
+
+### 技术栈
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -92,5 +91,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
+
+### 统计信息
+
+<p align="left">(为啥你们都这么有空)</p>
+
+![alt](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiaraBasori)
 
 ###
