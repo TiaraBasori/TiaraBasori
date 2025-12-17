@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">技术栈:</h3>
+<h3 align="left">技术栈/Tools:</h3>
 
 ###
 
