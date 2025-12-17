@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">一个来自浙江的高中生>lp>
-<p align="left">Cursor熟练使用者,DeepSeek API深度合作伙伴,Cloudflare Workers重度成瘾,GramJS受害者>lp>
+<p align="left">我是一个来自浙江的高中生</p>
+<p align="left">Cursor熟练使用者,DeepSeek API深度合作伙伴,Cloudflare Workers重度成瘾,GramJS受害者</p>
 
 ###
 
