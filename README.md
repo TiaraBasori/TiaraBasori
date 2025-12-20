@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">是一个来自浙江的高中生。</p>
+<p align="center">是一个高中生。</p>
 <p align="center">Also:<del>Cursor熟练使用者,DeepSeek API深度合作伙伴,Cloudflare Workers重度成瘾,GramJS受害者</del></p>
 
 ### Contact:
