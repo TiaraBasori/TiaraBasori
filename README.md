@@ -2,8 +2,8 @@
 
 ###
 
-<p align="center">是一个高中生。</p>
-<p align="center">Also:<del>专业的bugs修复师兼bugs创造者,手写代码时语法完全失忆症患者,Cursor启动器单推人,DeepSeek API深度合作伙伴,Cloudflare Workers重度成瘾患者,GramJS受害者</del></p>
+<p align="left">是一个高中生。</p>
+<p align="left">Also:<del>专业的bugs修复师兼bugs创造者,Telegram中文圈地头蛇,手写代码时语法完全失忆症患者,Cursor启动器单推人,DeepSeek API深度合作伙伴,Cloudflare Workers重度成瘾患者,GramJS受害者</del></p>
 
 ### Contact:
 
