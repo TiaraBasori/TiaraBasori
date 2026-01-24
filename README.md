@@ -1,4 +1,4 @@
-<h1 align="left">你好 👋 我是Tiara Basori</h1>
+<h1 align="left">你好 👋 我是Empty</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 ### Contact:
 
 <div align="left">
-  <a href="https://t.me/Tiara_Basori" target="_blank">
+  <a href="https://t.me/awaEmpty" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
