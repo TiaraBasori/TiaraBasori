@@ -19,7 +19,7 @@
 
   新一代 Telegram Userbot 框架
 
-- [TiaraBasori/pdzs](https://github.com/TiaraBasori/pdzs)
+- [TiaraBasori/Telegram-ChannelFlare-Bot](https://github.com/TiaraBasori/Telegram-ChannelFlare-Bot)
 
   使用 Cloudflare Workers 服务优化你的 Telegram 频道
 
