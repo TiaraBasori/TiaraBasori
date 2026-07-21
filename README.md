@@ -30,15 +30,6 @@
 
 ---
 
-### 🛠️ 技术栈
-
-|------|----------|
-| **语言** | TypeScript / JavaScript、Python、GO |
-| **运行时/边缘** | Node.js、Cloudflare Workers |
-| **基建** | Docker、Nginx、Linux (Ubuntu/Debian)、SSH、Git |
-
----
-
 ### 🤝 联系我
 
 > Telegram：<a href="https://t.me/awaEmpty" target="_blank">@awaEmpty</a>  
